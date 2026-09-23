@@ -8,6 +8,13 @@ A desktop fox that follows your daily schedule, reminds you of important things 
 
 ## What's new / Что нового
 
+**0.3.1** · 23.09.2026
+- A reminder waits for an answer: "Done" and snooze buttons under it. / Напоминание ждёт ответа: под ним кнопки «Готово» и «отложить».
+- "Do not disturb" from the menu and the tray; the fox also goes quiet while a game or presentation is full screen. / «Не беспокоить» из меню и из трея; и лисёнок сам молчит, пока на весь экран открыта игра или презентация.
+- "Three things for today": asked in the morning, checked in the evening. / «Три дела на сегодня»: вопрос утром, итог вечером.
+- Care reminders come out of the tray and can work outside work time. / Забота выходит из трея и умеет напоминать не только в рабочее время.
+- The fox hangs while dragged and comes back after the computer wakes up. / Лисёнок повисает, когда его тащат, и возвращается на место после сна компьютера.
+
 **0.3.0** · 17.09.2026
 - Reminders on a date: a birthday, a payment, a meeting, repeating every week, month or year, with a reminder a day or a week before. / Напоминания на дату: день рождения, оплата, встреча, с повтором каждую неделю, месяц или год и напоминанием за день или за неделю.
 - Take care of yourself: during work time the fox reminds you to stretch, drink water and rest your eyes. / Забота о себе: в рабочее время лисёнок зовёт размяться, попить воды и дать отдых глазам.
